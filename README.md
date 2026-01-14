@@ -210,7 +210,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 **James** - Aspiring ML Engineer  
-[GitHub](https://github.com/jamess005) | [LinkedIn](www.linkedin.com/in/jamesscott005)
+[GitHub](https://github.com/jamess005) | [LinkedIn](https://www.linkedin.com/in/jamesscott005/)
 
 ---
 
